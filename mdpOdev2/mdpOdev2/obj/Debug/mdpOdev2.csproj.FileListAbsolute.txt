@@ -1,0 +1,20 @@
+D:\My projects in VS\mdpOdev2\mdpOdev2\bin\Debug\mdpOdev2.exe.config
+D:\My projects in VS\mdpOdev2\mdpOdev2\bin\Debug\mdpOdev2.exe
+D:\My projects in VS\mdpOdev2\mdpOdev2\bin\Debug\mdpOdev2.pdb
+D:\My projects in VS\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.csproj.AssemblyReference.cache
+D:\My projects in VS\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.Form1.resources
+D:\My projects in VS\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.Properties.Resources.resources
+D:\My projects in VS\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.csproj.GenerateResource.cache
+D:\My projects in VS\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.csproj.CoreCompileInputs.cache
+D:\My projects in VS\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.exe
+D:\My projects in VS\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.pdb
+C:\Users\BERAT\Desktop\mdpOdev2\mdpOdev2\mdpOdev2\bin\Debug\mdpOdev2.exe.config
+C:\Users\BERAT\Desktop\mdpOdev2\mdpOdev2\mdpOdev2\bin\Debug\mdpOdev2.exe
+C:\Users\BERAT\Desktop\mdpOdev2\mdpOdev2\mdpOdev2\bin\Debug\mdpOdev2.pdb
+C:\Users\BERAT\Desktop\mdpOdev2\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\mdpOdev2\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.Form1.resources
+C:\Users\BERAT\Desktop\mdpOdev2\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.Properties.Resources.resources
+C:\Users\BERAT\Desktop\mdpOdev2\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.csproj.GenerateResource.cache
+C:\Users\BERAT\Desktop\mdpOdev2\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\mdpOdev2\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.exe
+C:\Users\BERAT\Desktop\mdpOdev2\mdpOdev2\mdpOdev2\obj\Debug\mdpOdev2.pdb
